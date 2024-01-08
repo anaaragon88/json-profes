@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Jorge",
+        "cargo": "Formador",
+        "bootcamp": "DW+inmersivas",
+        "edad": 40,
+        "foto": "https://factoriaf5.org/wp-content/uploads/2022/08/1657225247275-modified.jpeg"
+    },
+    {
+        "nombre": "Ana",
+        "cargo": "Coformadora",
+        "bootcamp": "DW+inmersivas",
+        "edad": 35,
+        "foto": "https://factoriaf5.org/wp-content/uploads/2023/04/ana_aragon_coformadora_factoria_f5-800x800.jpg"
+    },
+    {
+        "nombre": "Alex",
+        "cargo": "Formadora",
+        "bootcamp": "DW+ciberseguridad",
+        "edad": 25,
+        "foto": "https://factoriaf5.org/wp-content/uploads/2023/04/alexandra_zambrano_coformadora_madrid_factoria_f5-1-800x800.jpg"
+    }
+    ,
+    {
+        "nombre": "Gonzalo",
+        "cargo": "Coformador",
+        "bootcamp": "DW+ciberseguridad",
+        "edad": 35,
+        "foto": "https://factoriaf5.org/wp-content/uploads/2023/04/gonzalo_bosetti_factoria_f5.jpg"
+    }
+]
